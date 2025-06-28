@@ -35,22 +35,9 @@ A curated list of free AI-powered tools and agents for developers, designers, an
 **Platform:** [Gemini CLI](https://github.com/google/gemini-cli)  
 **Description:** Google's open-source command-line AI agent that brings Gemini 2.5 Pro to terminals for coding, debugging, and content generation. Offers generous free usage (60 reqs/minute, 1k/day) with multimodal capabilities, web search grounding, and MCP extensibility.
 
-### bolt.new - In-Browser AI App Builder
-**🌐 Platform:** [bolt.new](https://bolt.new)  
-**🎯 Best For:** Rapid prototyping, no-setup development, full-stack generation
-
-**What it does:** An AI-powered, in-browser app builder that lets users go from idea to working full-stack code with just a prompt—no installation or setup required.
-
-**✨ Key Features:**
-- Chat-based AI interface for app generation
-- Real-time code editing in browser
-- npm package management
-- Live preview of changes
-- Instant deployment options
-- Built by StackBlitz for reliability
-
-**💰 Pricing:** Free tier available  
-**🔧 Tech Stack:** Next.js, React, Node.js
+### bolt.new
+**Platform:** [bolt.new](https://bolt.new)  
+**Description:** An AI-powered, in-browser app builder that lets users go from idea to working full-stack code with just a prompt—no installation or setup required. Built by StackBlitz, it provides real-time code editing, npm package management, live preview, and instant deployment, all controlled by AI in a chat-based interface.
 
 ## Contributing
 
